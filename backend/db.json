@@ -1,22 +1,40 @@
 {
-    "pensamentos": [
-        {
-            "id": 1,
-            "conteudo": "Que bom que você veio",
-            "autoria": "Leo",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 2,
-            "conteudo": "A excelência é trivial",
-            "autoria": "Leo",
-            "modelo": "modelo3"
-        },
-        {
-            "id": 3,
-            "conteudo": "Angular é o melhor",
-            "autoria": "Leo",
-            "modelo": "modelo2"
-        }
-    ]
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Leo",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A excelência é trivial",
+      "autoria": "Leo",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Leo",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Novo pensamento",
+      "autoria": "leonardo",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Testando pensamento",
+      "autoria": "Leonardo",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "",
+      "autoria": "",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
 }
